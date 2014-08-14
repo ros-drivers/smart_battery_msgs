@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>smart_battery_msgs</name>
-  <version>0.0.0</version>
+  <version>0.1.0</version>
   <description>Smart Battery Messages</description>
 
   <maintainer email="jihoonlee.in@gmail.com">Jihoon Lee</maintainer>
